@@ -44,3 +44,13 @@ This project addresses key questions:
 Power BI | Excel | Power Query | DAX | Data Cleaning & Visualization
 
 ---
+
+## 📂 Project File
+
+[Download Power BI File]()
+
+---
+
+## 💼 Let's connect on
+
+[LinkedIn](https://www.linkedin.com/in/sandeeptibarewal/)
