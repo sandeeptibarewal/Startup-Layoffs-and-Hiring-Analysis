@@ -30,7 +30,7 @@ This project addresses key questions:
 
 ## 📷 Dashboard Preview
 
-![Image]()
+![Image](![Image](https://github.com/user-attachments/assets/e535a8b6-2ef1-4ead-80fc-71299a001e1b))
 
 ---
 
