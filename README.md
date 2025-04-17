@@ -47,7 +47,7 @@ Power BI | Excel | Power Query | DAX | Data Cleaning & Visualization
 
 ## 📂 Project File
 
-[Download Power BI File]()
+[Download Power BI File](https://github.com/sandeeptibarewal/Startup-Layoffs-and-Hiring-Analysis/raw/main/PROJECT%202.pbix)
 
 ---
 
