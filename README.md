@@ -28,6 +28,12 @@ This project addresses key questions:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Image]()
+
+---
+
 ## 📊 Key Features
 
 - 📈 Line chart for layoffs & hiring trends (2022–2025)  
