@@ -47,7 +47,7 @@ This project addresses key questions:
 
 ## 💼 Tools Used
 
-Power BI | Excel | Power Query | DAX | Data Cleaning & Visualization
+**Power BI | Excel | Power Query | DAX | Data Cleaning & Visualization**
 
 ---
 
